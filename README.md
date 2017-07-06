@@ -1,17 +1,17 @@
 # Expandable List View
 An example of an expandable listview in Android using JAVA.
 
-#Structure
+Structure:
 
-###Parent
+Parent
  - Child
  - Child
  - Child
-###Parent
+Parent
  - Child
  - Child
  - Child
- ###Parent
+Parent
  - Child
  - Child
  - Child
